@@ -68,7 +68,7 @@ El término "*crowbar*" se utiliza porque la técnica **cortocircuita o sobrecar
     * **Salto de Instrucción (Instruction Skip):** El procesador puede ejecutar mal o saltarse la instrucción que se estaba ejecutando, alterando el flujo del programa.
 
 
-![Crowbar Glitch](img/glitch-voltabe_keysight.png "Glitch de tensión.")
+![Crowbar Glitch](02-img/glitch-voltabe_keysight.png "Glitch de tensión.")
 
 
 ### 3. Parámetros Críticos del Ataque
