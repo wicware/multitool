@@ -1,0 +1,910 @@
+Connected to version: 0.0.1
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 4
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 5
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 6
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 7
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 8
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 9
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 10
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 11
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 12
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 14
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 16
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+Datos recibidos: i
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 18
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 2
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 4
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 6
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 8
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 9
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 11
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 12
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 15
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 17
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 19
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 2
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 4
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 6
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 8
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 10
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 12
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 14
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 16
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 3
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 4
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 5
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 6
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 7
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 8
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 9
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 11
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 13
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 14
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 3, PULSES = 5
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 3, PULSES = 6
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 3, PULSES = 7
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 3, PULSES = 8
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 3, PULSES = 9
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 3, PULSES = 10
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+Datos recibidos: i
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 3, PULSES = 12
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 3, PULSES = 13
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 3, PULSES = 14
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+Datos recibidos: i
+Datos recibidos: i
+Datos recibidos: i
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 3, PULSES = 19
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 4, PULSES = 2
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 4, PULSES = 4
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 4, PULSES = 6
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 4, PULSES = 8
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 4, PULSES = 10
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 4, PULSES = 12
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 4, PULSES = 14
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 4, PULSES = 16
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+Datos recibidos: i
+Datos recibidos: i
+Datos recibidos: i
+Datos recibidos: i
+Datos recibidos: i
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 5, PULSES = 5
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 5, PULSES = 7
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 5, PULSES = 9
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 5, PULSES = 10
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 5, PULSES = 12
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 5, PULSES = 14
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 5, PULSES = 16
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 5, PULSES = 18
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 2
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 3
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 5
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+Datos recibidos: i
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 8
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 10
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 12
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 14
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 16
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 18
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 6, PULSES = 19
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 2
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+Datos recibidos: i
+Datos recibidos: i
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 5
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+Datos recibidos: i
+Datos recibidos: i
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 9
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 11
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 12
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 14
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+Datos recibidos: i
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 17
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 7, PULSES = 19
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 2
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 4
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 6
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 8
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 9
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 11
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 13
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 15
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+Datos recibidos: i
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 8, PULSES = 17
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+Datos recibidos: i
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 7
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 8
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 9
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 10
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 11
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 12
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 13
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 14
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 15
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 16
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 17
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 9, PULSES = 19
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 2
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 4
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+Datos recibidos: i
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 7
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 9
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 11
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 13
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+Connected to version: 0.0.1
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 2
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 4
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 5
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 6
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 8
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+Datos recibidos: i
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 11
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 13
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 15
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 16
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 18
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 19
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 21
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 23
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+Datos recibidos: i
+Datos recibidos: i
+Datos recibidos: i
+Datos recibidos: i
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 29
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
+----------------------------------------
+¡ADVERTENCIA: Conexión serial perdida!
+Parámetros actuales a la espera: WIDTH = 2, PULSES = 31
+Pausando ejecución del script. Reconectando...
+ GLITCHEADO  !!!!!
+----------------------------------------
+Puerto serie /dev/ttyUSB0 abierto correctamente.
