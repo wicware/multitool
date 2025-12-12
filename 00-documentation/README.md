@@ -86,10 +86,114 @@ El éxito depende de la manipulación precisa de tres parámetros:
 * **Inyección de Códigos de Operación (Opcode Injection):** Inducir un fallo para que el procesador ejecute una instrucción diferente (ej. un `NOP` o un salto).
 * **Ataque DFA Mejorado:** Generar un texto cifrado con un fallo preciso para usar el **Análisis Diferencial de Fallos (DFA)** y deducir la clave.
 
-### 🛡️ Contramedidas
+### Contramedidas
 
 Las defensas se centran en la inmunidad del *hardware* a las fluctuaciones:
 
 * **Filtros de Voltaje:** Agregar condensadores de desacoplo de alta frecuencia cerca de los puntos sensibles.
 * **Monitores de Voltaje (Voltage Detectors):** Circuitos que detectan si el VCC cae por debajo de un umbral seguro y activan un reinicio instantáneo (*reset*).
 * **Redundancia Temporal/Espacial:** Ejecutar operaciones críticas varias veces y comparar resultados.
+
+# ⏰ El Glitch de Reloj (Clock Glitch)
+
+El *glitch de reloj* es una técnica de inyección de fallos hardware p en microcontroladores o procesadores, **interfiriendo temporalmente con su señal de reloj**.
+
+## ¿Cómo Funciona?
+
+Un circuito digital síncrono utiliza una señal de reloj ($f_{clk}$) para dictar el ritmo de sus operaciones.
+
+Para realizar una inyección en este ataque es necesario disponer de una fuente de reloj mucho más rápida, del orden de 10 veces más rápida que el reloj objetivo debido al teorema de Nyquist, para asegurar el momento de disparo.
+
+Este tipo de ataque presenta ventajas con respecto a los Glitches de tensión. 
+* **Precisión:** asegura el momento del disparo.
+* **Control:** puede forzar un cambio concreto en la instrucción procesada. 
+
+Esto posibilita forzar un cambio de 1 bit en la instrucción / OPCode que se está procesando en ese momento como por ejemplo:
+
+* **Opcodes Vecinos a `280A` (CMP R0, #10)**
+
+El *opcode* `280A` (binario 0010100000001010) corresponde a la instrucción **`CMP R0, #10`** en el conjunto de instrucciones Thumb-2 del ARM Cortex-M3.
+
+El siguiente análisis muestra las 16 posibles instrucciones resultantes de cambiar **un solo bit** en el código binario. Este es un escenario clave para entender la vulnerabilidad a fallos de un solo bit (como los causados por un *glitch de reloj*).
+
+| Bit Modificado | Nuevo Opcode (Hex) | Mnemónico ASM Resultante | Operación y Consecuencia Crítica |
+| :--- | :--- | :--- | :--- |
+| **Bit 11** | `2**0**0A` | `MOVS R0, #10` | **Cambia la operación:** Mueve el valor 10 a R0. **Corrompe el valor de R0.** |
+| **Bit 10** | `2**C**0A` | `ADDS R0, R0, #10` | **Cambia la operación:** Suma 10 a R0. **Corrompe el valor de R0.** |
+| **Bit 9** | `2**A**0A` | `SUBS R0, R0, #10` | **Cambia la operación:** Resta 10 a R0. **Corrompe el valor de R0.** |
+| **Bit 8** | `290A` | `CMP R1, #10` | **Cambia el registro:** Compara R1 en lugar de R0. **Salta la comprobación deseada.** |
+| **Bit 7** | `288A` | `CMP R0, #138` | **Cambia el Inmediato:** Compara con 138 (0x8A). |
+| **Bit 6** | `284A` | `CMP R0, #74` | **Cambia el Inmediato:** Compara con 74 (0x4A). |
+| **Bit 5** | `282A` | `CMP R0, #42` | **Cambia el Inmediato:** Compara con 42 (0x2A). |
+| **Bit 4** | `281A` | `CMP R0, #26` | **Cambia el Inmediato:** Compara con 26 (0x1A). |
+| **Bit 3** | `2802` | `CMP R0, #2` | **Cambia el Inmediato:** Compara con 2 (0x02). |
+| **Bit 2** | `2806` | `CMP R0, #6` | **Cambia el Inmediato:** Compara con 6 (0x06). |
+| **Bit 1** | `2808` | `CMP R0, #8` | **Cambia el Inmediato:** Compara con 8 (0x08). |
+| **Bit 0** | `280B` | `CMP R0, #11` | **Cambia el Inmediato:** Compara con 11 (0x0B). |
+
+Los cambios en los bits 9, 10 y 11 son los más peligrosos porque alteran la instrucción de una operación
+
+## Parámetros clave
+
+Los parámetro que determinan este tipo de ataques son:
+
+1.  **Aislamiento:** Obtener acceso físico al pin de reloj del circuito.
+2.  **Inyección:** En un momento crítico (ejecución de una comprobación de seguridad), se inyecta un **pulso de reloj anormalmente corto** (un *glitch*).
+3.  **Fallo por Tiempo:** Este pulso estrecho ($T_{glitch} \ll T_{clk}$) viola los tiempos mínimos de configuración o retención de los *flip-flops*, causando un **estado indeterminado** y un fallo controlado.
+
+## Consecuencias del Ataque
+
+Un *glitch* ejecutado con precisión puede:
+
+* **Omisión de Instrucciones:** El procesador salta una instrucción de seguridad crucial.
+* **Derivación de Condiciones:** El programa ejecuta directamente el código que debería estar protegido sin pasar la verificación.
+
+## Diagrama de la Inyección del Clock Glitch
+
+![Clock Glitch](02-img/glitch_clock.png "Glitch de reloj.")
+Este diagrama ilustra la diferencia entre la señal de reloj normal y el pulso intencionalmente acortado que causa el fallo.
+
+## Medidas de Mitigación contra el Clock Glitching
+
+Los fabricantes de hardware y los diseñadores de *firmware* implementan varias contramedidas para hacer que los ataques de *clock glitching* sean más difíciles, o incluso imposibles, de ejecutar con éxito.
+
+### 1. Protección a Nivel de Hardware
+
+Estas defensas están integradas directamente en el diseño del circuito (ASIC o FPGA).
+
+* **Detección de Frecuencia/Periodo del Reloj (Clock Monitoring):**
+    * Se incluye un circuito de vigilancia (*watchdog*) que mide el periodo (o la frecuencia) del pulso de reloj.
+    * Si detecta que un pulso es significativamente más corto de lo esperado (un *glitch*), asume que hay un ataque.
+    * **Acción:** El chip puede apagarse inmediatamente, entrar en modo de reinicio seguro o borrar claves secretas almacenadas en SRAM volátil.
+
+* **Filtros de Reloj (Clock Filters):**
+    * Se utilizan filtros de paso bajo o circuitos *debounce* para suavizar las irregularidades en la señal de reloj.
+    * Estos filtros están diseñados para ignorar picos de ruido muy cortos, lo que hace que los pulsos de *glitch* estrechos no sean lo suficientemente potentes para afectar la lógica interna.
+
+* **Rutas de Reloj Redundantes (Redundant Clock Paths):**
+    * Algunos diseños críticos utilizan múltiples generadores de reloj (o una malla de reloj más compleja) para que un *glitch* inyectado en una sola línea no pueda afectar a todas las unidades funcionales del chip simultáneamente.
+
+### 2. Protección a Nivel de Software/Firmware
+
+Estas defensas se implementan en el código que se ejecuta en el chip.
+
+* **Instrucciones de Redundancia y Duplicación:**
+    * Las comprobaciones de seguridad críticas (como la verificación de la contraseña) se realizan **dos veces** y se comparan los resultados.
+    * Si un *glitch* salta la primera comprobación, es muy poco probable que también salte la segunda.
+    * **Ejemplo:** En lugar de `if (password_ok)`, se hace:
+        ```c
+        if (password_ok()) {
+            if (password_ok()) {
+                // Proceder solo si ambas son correctas
+            } else {
+                // Fallo o ataque
+            }
+        }
+        ```
+
+* **Comprobaciones de Temporización (Timing Checks):**
+    * Se utiliza un temporizador interno (ajeno al reloj principal atacado) para medir el tiempo que tarda en ejecutarse una sección de código crítica.
+    * Si la ejecución es demasiado rápida (indicando que se saltaron instrucciones por un *glitch*), se asume un fallo y se bloquea el acceso.
+
+* **Uso de Lógica Asíncrona para Comprobaciones:**
+    * Las operaciones de seguridad más críticas se realizan en módulos de hardware que operan **asincrónicamente** o que utilizan una fuente de reloj diferente (como un *ring oscillator*), haciéndolos inmunes al *glitch* del reloj principal.
